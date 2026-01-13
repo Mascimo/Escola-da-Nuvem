@@ -1,3 +1,4 @@
+
 temperatura = float(input("Digite a temperatura: "))
 origem = input("Digite a origem da temperatura (C, F ou K): ").upper()
 destino = input("Digite o destino da temperatura (C, F ou K): ").upper()

@@ -1,3 +1,4 @@
+
 idade = int(input("Digite a idade: "))
 
 if idade <= 0 or idade >= 150:
